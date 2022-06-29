@@ -1,7 +1,6 @@
 public class MyArrayList<Y> {
     private int index = 0;
     private Y[] arr;
-//   private double capacity=1.5;
 
     public MyArrayList() {
         arr = (Y[]) new Object[3];

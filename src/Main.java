@@ -4,9 +4,6 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         MyArrayList arrayList = new MyArrayList();
-//        ArrayList list=new ArrayList();
-//        list.add(4);
-        arrayList.add("leyla");
         arrayList.add(6);
         arrayList.add(7);
         arrayList.add(8);
